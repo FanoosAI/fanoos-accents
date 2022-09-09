@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77e402cd.css",
+    "main.js": "/static/js/main.99f5e2f3.js",
+    "static/media/FontsFree-Net-ir_sans.ttf": "/static/media/FontsFree-Net-ir_sans.b405362106aecf6bb79b.ttf",
+    "index.html": "/index.html",
+    "main.77e402cd.css.map": "/static/css/main.77e402cd.css.map",
+    "main.99f5e2f3.js.map": "/static/js/main.99f5e2f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e402cd.css",
+    "static/js/main.99f5e2f3.js"
+  ]
+}
